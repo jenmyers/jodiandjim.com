@@ -1,8 +1,0 @@
-safe:        false
-auto:        false
-base-url:    /
-permalink:   none
-
-source:      .
-destination: _site
-plugins:     _plugins
